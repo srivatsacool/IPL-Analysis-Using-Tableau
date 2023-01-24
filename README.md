@@ -1,6 +1,7 @@
 
 # IPL Analysis ( 2009 - 2020 ) Using Tableau
 
+Link to Tableau Public :https://public.tableau.com/app/profile/srivatsa.g1779/viz/IPLAnalysis2009-2020/Story1 \
 Dataset : Uploaded above \
 Link : https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
