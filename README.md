@@ -18,6 +18,3 @@ Link : https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-2008202
 <video src="https://user-images.githubusercontent.com/76219802/214374046-c343b2ca-fa5b-4391-b756-2d32a4f0730c.mp4" controls="controls" style="max-width: 1000px;" autoplay = "autoplay">
 </video>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/76219802/212941341-6e9784a0-7151-4edb-a09d-69b61a9491bb.png" />
-</p>
